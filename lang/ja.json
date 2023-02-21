@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "title": "Web3 Incubation Program by Sony Network Communications and Astar Network",
+    "description": "Sony Network CommunicationsとAstar Networkの知見とリソースを活用した最先端web3プロジェクトの育成プログラム",
+      "program": {
+        "title": "Program",
+        "description": "web3プロジェクトに対して手厚いサポートをクオリティ高く提供"
+      },
+      "partners": {
+        "title": "Partners",
+        "description": "web3プロジェクトが成長するために必要な全てのサポートを提供"
+      },
+      "mentors": {
+        "title": "Mentors",
+        "description": "世界有数のプロフェッショナルがテック面、ファイナンス面などあらゆる視点から建設的なフィードバックを提供"
+      }
+  },
+  "nav": {
+    "tac": "利用規約",
+    "privacy": "プライバシーポリシー"
+  },
+  "cta":{
+    "apply": "参加はこちら",
+    "lead":"Let's Join With Us",
+    "contact":"お問い合わせはこちら:"
+  },
+  "learn_more": "もっと見る",
+  "program":{
+    "about":{
+      "heading":"Sony Network CommunicationsとAstar Networkは互いの知識とリソースを活用し、参加するweb3プロジェクト開発をサポートします",
+      "description":"このインキュベーションプログラムは、Sony Network CommunicationsとAstar Networkの共同プログラムであり、互いの知識とリソースを用いて、最先端のweb3スタートアップを育成することを目的としています。インキュベーションプログラムはオンラインで全世界から参加でき、期間は3月から6月までの3ヶ月間です。"
+    },
+    "offer":{
+      "connection":{
+        "lead":"Web3 FoundationやAlchemyなどの世界トップのweb3企業と直接繋がる機会",
+        "text":"Web3 FoundationやAlchemyなどの世界トップのWeb3企業からフィードバックを受けられ、彼らからの貴重なセッションに無料で参加することができます。"
+      },
+      "support":{
+        "lead":"Sony Network CommunicationsとAstar Networkによる技術的・経済的サポート",
+        "text":"Sony Network CommunicationsやAstar Networkのリソースの活用。web3テックサポートや有望なプロジェクトにはSony Network Communicationsからの投資も検討されます。"
+      },
+      "grow":{
+        "lead":"Sony Network CommunicationsとAstar Networkと共にプロジェクトを成長させる経験",
+        "text":"インキュベーションプログラム終了後にも、特に優れたプロジェクトはSony Network Communicationsと共同で実証実験を行ったり、出資が検討されます。"
+      }
+    },
+    "timeline": {
+      "subheading": "Timeline",
+      "heading": "インキュベーションプログラムは1ヶ月の応募期間と3ヶ月のインキュベーション期間、そしてデモデイで構成されています",
+      "learn_more":"もっと見る",
+      "application": {
+        "title": "応募期間",
+        "duration": "1ヶ月",
+        "dates": "2月17日〜3月6日",
+        "description": "参加者はチームやプロダクトに関するプロジェクトの基本情報を申請フォームに入力します。Sony Network CommunicationsとAstar Foundationが厳正なる審査を行い、10〜15チームをインキュベーションに採択します。選考に通過したチームにはメールにてご連絡いたします。",
+        "description_short": "私たちは世界中から多様なプロジェクトを募集します。バリュエーションに制限はありません。"
+      },
+      "incubation": {
+        "title": "インキュベーション",
+        "duration": "3ヶ月",
+        "dates": "3月中旬〜6月18日",
+        "description": "世界最高峰のweb3イノベーターによるセッション、メンタリング、経営戦略へのフィードバックを提供します。Sony Network CommunicationsとAstar Foundationによる開発支援などが行われます。Sony Network CommunicationsのリソースとWeb3スタートアップの技術をマッチングし、ユースケースを創出していきます。",
+        "description_short": "世界的なVCやweb3企業によるセッション、技術や事業戦略に関するメンタリング、そしてソニーグループ内のプロジェクトとのビジネスマッチングの創出などを実施します。"
+      },
+      "demo": {
+        "title": "デモデイ",
+        "duration": "",
+        "dates": "6月18日",
+        "description": "デモデイは、Japan Blockchain Week中の6月に東京のソニーグループ株式会社 本社で開催されます。インキュベーションプログラムに参加する企業や投資家などが一堂に集まり、約200名が参加する予定です。",
+        "description_short": "6月に東京のソニーグループ株式会社 本社でデモデイをオフライン開催する予定です。"
+      }
+    }
+  },
+  "partners":{
+    "learn_more":"もっと見る"
+  },
+  "mentors":{
+    "learn_more":"もっと見る"
+  }
+}
